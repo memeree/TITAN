@@ -1,4 +1,6 @@
 # TITAN - PLEASE DM/Message me your profiles and i'll add you to the Repo!
+# Head over to the Discussions area to introduce yourselves, and head over to the wiki to get an overview/context
+
 This is a temporary name for the project that so many of you have expressed an interest in, i'm humbled by your generosity.
 
 
